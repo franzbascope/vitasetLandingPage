@@ -15,6 +15,14 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+
+
+.card-modern {
+  display: flex;
+  flex-direction: column;
+  overflow: visible;
+}
+
 a {
   color: #007bff;
   transition: 0.5s;
