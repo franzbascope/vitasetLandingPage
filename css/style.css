@@ -15,8 +15,6 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
-
-
 .card-modern {
   display: flex;
   flex-direction: column;
@@ -674,7 +672,7 @@ h6 {
 }
 
 #why-us .card i {
-  font-size: 48px;
+  font-size: 58px;
   padding-top: 15px;
   color: #bfddfe;
 }
@@ -856,8 +854,18 @@ h6 {
   background: #3395ff;
 }
 
-#portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-preview:hover i,
-#portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-details:hover i {
+#portfolio
+  .portfolio-item
+  .portfolio-wrap
+  .portfolio-info
+  .link-preview:hover
+  i,
+#portfolio
+  .portfolio-item
+  .portfolio-wrap
+  .portfolio-info
+  .link-details:hover
+  i {
   color: #fff;
 }
 
